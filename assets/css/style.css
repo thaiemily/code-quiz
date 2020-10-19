@@ -34,6 +34,7 @@ h2 {
     font-size: 4.2rem;
     margin-bottom: 4rem;
     font-weight: 700;
+    text-align: center;
 }
 
 h3 {
@@ -77,6 +78,7 @@ header nav ul li a {
     align-items: center;
     max-width: 80rem;
     margin: 0 auto;
+
 }
 
 .container > * {
@@ -90,6 +92,9 @@ header nav ul li a {
     text-align: center;
     border: 0.1rem solid var(--secondary-color);
     text-decoration: none;
+    padding: 2rem;
+    background-color: var(--secondary-color);
+    color: white;
 }
 /* If time, add dis.
 .btn:hover {

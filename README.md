@@ -32,6 +32,8 @@ This application is a timed coding quiz with multiple-choice questions. The app 
 
 ## Deployed Link
 
-
+- [Link](https://geneskit.github.io/code-quiz/)
 
 ## Contribution
+
+Made by Emily Thai.
